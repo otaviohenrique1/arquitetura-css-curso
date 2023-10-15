@@ -1,5 +1,4 @@
-.sobre {}
-
-.sobre__titulo {}
-
-.sobre__descricao {}
+.sobre {
+  padding: 2.5rem;
+  text-align: center;
+}
