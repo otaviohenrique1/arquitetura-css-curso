@@ -4,6 +4,10 @@
 
 Projeto feito no curso de 'Arquitetura CSS descomplicando os problemas' da Alura.
 
+## Link de pagina
+
+- [Link](https://otaviohenrique1.github.io/arquitetura-css-curso/)
+
 ## Tecnologias
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
