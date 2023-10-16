@@ -4,7 +4,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: calc(100vh - 72px);
   /* height: calc(100vh - 72px); => altura da imagem - altura do header */
   width: 100%;
 }
@@ -13,3 +12,15 @@
   height: calc(100vh - 72px);
   width: 100%;
 } */
+
+@media screen and (min-width: 0) {
+  .banner__imagem {
+    height: calc(100vh - 51px);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .banner__imagem {
+    height: calc(100vh - 72px);
+  }
+}
